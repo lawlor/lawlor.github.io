@@ -2,4 +2,4 @@
 layout: home
 ---
 
-I'm a software engineer based in Dublin building back-end microservices at Personio. I'm also interested in localisation and languages and have built services at scale using Python, Java, React and C#.
+Software engineer based in Dublin with experience building distributed services at scale at companies like Skyscanner and Personio using technologies such as Java, Kotlin, PHP, Laravel, Spring Boot, C# and Python.
